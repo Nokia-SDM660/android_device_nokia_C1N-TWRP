@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-PLATFORM_PATH := device/nokia/PL2_sprout
+PLATFORM_PATH := device/nokia/C1N
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := sdm660
@@ -65,7 +65,7 @@ BOARD_KERNEL_TAGS_OFFSET := 0x00000100
 BOARD_RAMDISK_OFFSET     := 0x01000000
 BOARD_SECOND_OFFSET := 0x00f00000
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
-TARGET_PREBUILT_KERNEL := device/nokia/PL2_sprout/prebuilt/Image.gz-dtb
+TARGET_PREBUILT_KERNEL := device/nokia/C1N/prebuilt/Image.gz-dtb
 
 
 # Partitions

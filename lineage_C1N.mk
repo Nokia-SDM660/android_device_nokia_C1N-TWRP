@@ -64,12 +64,12 @@ PRODUCT_PACKAGES += \
 	
 	# Partitions (listed in the file) to be wiped under recovery.
 TARGET_RECOVERY_WIPE := \
-    device/nokia/PL2_sprout/recovery/root/etc/recovery.wipe	
+    device/nokia/C1N/recovery/root/etc/recovery.wipe	
 
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_PL2_sprout
-PRODUCT_DEVICE := PL2_sprout
+PRODUCT_NAME := lineage_C1N
+PRODUCT_DEVICE := C1N
 PRODUCT_BRAND := Nokia
-PRODUCT_MODEL := Nokia 6.1
+PRODUCT_MODEL := Nokia 7
 PRODUCT_MANUFACTURER := Nokia

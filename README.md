@@ -1,10 +1,10 @@
- Nokia 6.1 (codenamed _"PL2_sprout"_) are high-end mid-range smartphones from Nokia.
+ Nokia 7 (codenamed _"C1N"_) are high-end mid-range smartphones from Nokia.
 
-Nokia 6.1 was announced and released in march 2018.
+Nokia 7 was announced and released in 2017.
 
 ## Device specifications
 
-| Device       |   Nokia 6.1                                     |
+| Device       |   Nokia 7                                       |
 | -----------: | :---------------------------------------------- |
 | SoC          | Qualcomm SDM630 Snapdragon 630                  |
 | CPU          | Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)|
@@ -17,5 +17,5 @@ Nokia 6.1 was announced and released in march 2018.
 
 How to build
 
-. build/envsetup.sh && lunch lineage_PL2_sprout-eng && make -j32 recoveryimage
+. build/envsetup.sh && lunch lineage_C1N-eng && make -j32 recoveryimage
 
